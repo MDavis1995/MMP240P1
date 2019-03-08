@@ -1,0 +1,57 @@
+body{
+    background: #E4FDE1;
+}
+
+#hs{
+    border: 10px ridge #648381;
+    border-radius: 50%;
+    width: 140px;
+    height: 140px;
+}
+
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+h1{
+    font-family: futura;
+    font-size: 35PX;
+    color: #648381;
+    text-align: center;
+}
+
+.nav{
+    font-family: futura;
+    text-align: center;
+    padding-bottom: 30px;
+}
+
+a{
+    color: #575761;
+    font-size: 18px;
+    margin: 8px;
+    
+    
+}
+
+#copy{
+    font-family: futura;
+    text-align: left;
+}
+
+#bottom{
+    bottom: 0;
+}
+
+h3{
+    font-family: futura;
+    color: #FFBF46;
+}
+
+p{
+    font-family: futura;
+    color: #575761;
+}

@@ -1,0 +1,100 @@
+body{
+    background: #FEDC97;
+}
+
+#hs{
+    border: 10px ridge #7C9885;
+    border-radius: 50%;
+    width: 140px;
+    height: 140px;
+}
+
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+h1{
+    font-family: futura;
+    font-size: 35PX;
+    color: #7C9885;
+    text-align: center;
+}
+
+.nav{
+    font-family: futura;
+    text-align: center;
+    padding-bottom: 30px;
+}
+
+a{
+    color: #39433c;
+    font-size: 18px;
+    margin: 8px;   
+}
+
+form{
+    font-family: futura;
+    font-size: 20px;
+    text-align: center;
+    padding: 10px;
+    color: #28666E;
+}
+
+#text{
+    font-size: 14px;
+}
+
+#submit{
+    font-size: 20px;
+}
+
+#button{
+    font-size: 20px;
+
+}
+
+#tel{
+    font-size: 14px;
+}
+
+#email{
+    font-size: 15px;
+}
+
+label{
+    font-family: futura;
+    font-size: 20px;
+}
+
+p{
+    text-align: center;
+    color: #28666E;
+}
+
+textarea{
+    padding: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+#submit2{
+    font-size: 20px;
+    margin: 20px;
+}
+
+#radio{
+    font-size: 16px;
+}
+
+#copy{
+    text-align: left;
+    font-family: futura;
+}
+
+#bottom{
+    bottom: 0;
+}
